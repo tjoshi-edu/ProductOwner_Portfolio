@@ -43,6 +43,7 @@ Project	Domain	Skills Demonstrated
 * Bachelors of Science in Physics 
 
 ##  Target Roles
->> AI Product Owner · Data Product Owner · Technical Product Owner · AI Product Manager · Senior BSA with AI focus
----
-All case studies and product artifacts in this portfolio are original work based on my professional experience. Company names are used for context only — all content reflects my own analysis and product thinking.
+<p>AI Product Owner · Data Product Owner · Technical Product Owner · AI Product Manager · Senior BSA with AI focus</p>
+
+-----------------
+All case studies and product artifacts in this portfolio are original work based on my professional experience. 
