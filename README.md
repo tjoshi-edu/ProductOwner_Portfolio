@@ -9,8 +9,8 @@ This portfolio demonstrates my ability to define AI products, write AI-specific 
 
 #  Certifications
 >>
-Certification                                   Provider	      Status
--------------                                   --------        ------
+| Certification | Provider | Status |
+ ------------                                   --------        ------
 *  PSPO I — Professional Scrum Product Owner	  Scrum.org	      ✅ Earned
 *  AZ-900 — Azure Fundamentals	                Microsoft	      ✅ Earned
 *  PSM I — Professional Scrum Master            Scrum.org	      ✅ Earned
