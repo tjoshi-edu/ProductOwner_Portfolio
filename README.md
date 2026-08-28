@@ -27,10 +27,9 @@ Domain|Life Insurance · Risk Scoring · Financial Services · Healthcare · Aut
 Agile|Scrum · SAFe · Sprint Ceremonies · Retrospectives · Story Mapping · Refinement
 
 ##  Portfolio Projects
-Project	Domain	Skills Demonstrated
-1	AI Requirements User Story Generator — Reduce manual requirements documentation effort while improving consistency, completeness, and testability
-  Technology - Python and Ollama
-
+| Project | Problem | Technology |
+| ------------  | -------- | ------ |                                
+| AI Requirements User Story Generator | Requirements are often provided in natural language and require significant manual effort to transform into user stories| Python, Ollama 
 
 ## Education
 * Masters of Science in Data Analytics 
