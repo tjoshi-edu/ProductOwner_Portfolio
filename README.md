@@ -13,6 +13,7 @@ This portfolio demonstrates my ability to define AI products, write AI-specific 
 | AZ-900 — Azure Fundamentals | Microsoft | ✅ Earned
 | PSM I — Professional Scrum Master | Scrum.org | ✅ Earned
 | Databricks GenAI Fundamentals | Databricks | ✅ Earned
+| Databricks AI Agent Fundamentals | Databricks | ✅ Earned
 | PL-900 — Power Platform Fundamentals | Microsoft | ✅ Earned
 
 ##  Skills
