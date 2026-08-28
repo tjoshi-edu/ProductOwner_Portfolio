@@ -28,14 +28,9 @@ Agile|Scrum · SAFe · Sprint Ceremonies · Retrospectives · Story Mapping · R
 
 ##  Portfolio Projects
 Project	Domain	Skills Demonstrated
-1	AI Claims Triage — Product Brief	Insurance	AI Product Strategy · Success Metrics · Roadmap
-2	Driver Risk AI — Feature Specification	Automotive/Telematics	AI Feature Spec · Acceptance Criteria · Build vs Buy
-3	AI Claims User Stories + Acceptance Criteria	Insurance	User Stories · AI AC · INVEST · Given-When-Then
-4	WSJF + Kano Backlog Prioritization	Insurance	WSJF · Kano Model · Stakeholder Alignment
-5	Claims Data Analysis — SQL	Insurance	SQL · Data Analysis · Business Intelligence
-6	Power BI Insurance Dashboard	Insurance	Power BI · Data Visualization · KPI Design
-7	AI Claims Platform Roadmap	Insurance	Product Roadmapping · OKRs · Now-Next-Later
-8	MetLife AI Transformation Case Study	Insurance	Domain Expertise · AI Opportunity Analysis · Lessons Learned
+1	AI Requirements User Story Generator — Reduce manual requirements documentation effort while improving consistency, completeness, and testability
+  Technology - Python and Ollama
+
 
 ## Education
 * Masters of Science in Data Analytics 
