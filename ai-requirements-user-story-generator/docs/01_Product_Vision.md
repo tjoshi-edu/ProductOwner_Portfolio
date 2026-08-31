@@ -2,14 +2,11 @@
 
 ## Vision
 
-Enable Product Owners and Business Analysts to transform
-unstructured business requirements into high-quality,
-testable Agile artifacts using Generative AI.
+Enable Product Owners and Business Analysts to transform unstructured business requirements into high-quality, testable Agile artifacts using Generative AI.
 
 ## Problem
 
-Requirements are often provided in natural language and require
-significant manual effort to transform into:
+Requirements are often provided in natural language and require significant manual effort to transform into:
 
 - Epics
 - Features
@@ -24,15 +21,11 @@ significant manual effort to transform into:
 Product Owners
 
 ### Secondary
-Business Analysts
-Scrum Masters
-QA Analysts
-Engineering Teams
+Business Analysts, Scrum Masters, QA Analysts and Engineering Teams
 
 ## Value Proposition
 
-Reduce manual requirements documentation effort while improving
-consistency, completeness, and testability.
+Reduce manual requirements documentation effort while improving consistency, completeness, and testability.
 
 ## Product Principles
 
