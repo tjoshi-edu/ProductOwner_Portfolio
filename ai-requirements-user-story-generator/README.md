@@ -119,8 +119,6 @@ This project demonstrates end-to-end AI Product Ownership:
 
 ## Future Enhancements
 
-- Jira integration
-- Azure DevOps integration
 - Excel export
 - Word export
 - Test case generation
