@@ -6,7 +6,7 @@
 
 ### Persona Overview
 
-- **Name:** Priya — Product Owner
+- **Name:** Alex — Product Owner
 - **Role:** Product Owner / Product Manager
 - **Experience:** 5–10 years
 - **Environment:** Agile product development
@@ -71,7 +71,7 @@ The Product Owner considers the product successful when:
 
 ### Persona Overview
 
-- **Name:** Alex — Business Systems Analyst
+- **Name:** Courtney — Business Systems Analyst
 - **Role:** Business Analyst / Systems Analyst
 - **Experience:** 3–10 years
 
