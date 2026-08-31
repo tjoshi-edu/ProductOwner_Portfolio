@@ -78,10 +78,6 @@ Output:
 
 ## Product Owner Responsibilities
 
-This project demonstrates:
-
-## Product Owner Responsibilities
-
 This project demonstrates end-to-end AI Product Ownership:
 
 ### Product Discovery
